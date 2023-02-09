@@ -1,5 +1,5 @@
 body {
-    font-size: 40px;
+    font-size: 28px;
 }
 
 button {
@@ -18,7 +18,10 @@ button:hover {
     color: white;
 }
 
-#count {
-    margin: auto;
-    padding: auto;
+#count1,#count2,#count3,#count4 {
+    color: blue;
+    border: solid 2px blue;
+    width: 30%;
+    padding: 10px;
+    margin: 10px;
 }
